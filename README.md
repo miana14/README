@@ -1,6 +1,6 @@
 # Bienvenue chez Kercode !
 
- ![Kercode](./images/kercode.jpg "Kercode")
+ ![Kercode](/kercode.jpg "Kercode")
 
  ## Introduction 
 
@@ -22,6 +22,8 @@ points dans la prolongation de ce qui a été vu en cours.
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce
 texte avec :
 
+<img src="markdown.png" width=220 align=right>
+  
 * la gestion de la différence entre le retour à la ligne et le démarrage
 d'un nouveau paragraphe (avec saut d'une ligne vide)
 
@@ -35,7 +37,6 @@ d'un nouveau paragraphe (avec saut d'une ligne vide)
 
 * l'insertion de code HTML (à vous de trouver où ; c'est du bonus)
 
-![Markdown](./images/markdown.png "Titre de l'image")
 
 ### La création d'un dépôt [GitHub](http://www.github.com)
 
