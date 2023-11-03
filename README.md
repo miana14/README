@@ -1,6 +1,6 @@
 # Bienvenue chez Kercode !
 
- ![Kercode](/images/kercode.jpg "Titre de l'image")
+ ![Kercode](greta-web/td-markdown/images/kercode.jpg "Titre de l'image")
 
  ## Introduction 
 
@@ -35,7 +35,7 @@ d'un nouveau paragraphe (avec saut d'une ligne vide)
 
 * l'insertion de code HTML (à vous de trouver où ; c'est du bonus)
 
-![Markdown](/images/markdown.png "Titre de l'image")
+![Markdown](greta-web/td-markdown/images/markdown.png "Titre de l'image")
 
 ### La création d'un dépôt [GitHub](http://www.github.com)
 
